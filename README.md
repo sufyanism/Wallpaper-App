@@ -12,9 +12,6 @@ The app loads wallpapers dynamically from a JSON file and features smooth transi
 - Hero animations for smooth transitions
 - JSON-based wallpaper loading for easy updates
 
-## Demo
-https://github.com/user-attachments/assets/d02a2984-bc3f-4ad8-9af5-69e3a5047942
-
 ## Getting Started
 
 ### Prerequisites
@@ -57,6 +54,9 @@ assets/
 ]
 ```
 
+## Demo
+https://github.com/user-attachments/assets/d02a2984-bc3f-4ad8-9af5-69e3a5047942
+
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
 You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin](https://www.linkedin.com/in/sufyanism)
@@ -71,5 +71,6 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  </br>
 
 **Thank you for visiting!** 
+
 
 
