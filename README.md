@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/4519627e-d64b-4c76-9481-d3bc3507a508
+
 # Flutter Wallpaper App
 A clean, modern, and lightweight Flutter Wallpaper App that lets users browse, favorite, download, and share high-quality wallpapers.
 The app loads wallpapers dynamically from a JSON file and features smooth transitions, caching, and offline-friendly behavior.
@@ -12,12 +14,8 @@ The app loads wallpapers dynamically from a JSON file and features smooth transi
 - Hero animations for smooth transitions
 - JSON-based wallpaper loading for easy updates
 
-## Screenshots
-
-
-
-
-
+## Demo
+https://github.com/user-attachments/assets/d02a2984-bc3f-4ad8-9af5-69e3a5047942
 
 ## Getting Started
 
@@ -60,5 +58,6 @@ assets/
   {"id": 2, "name": "Mountains", "url": "https://example.com/mountains.jpg"}
 ]
 ```
+
 
 
